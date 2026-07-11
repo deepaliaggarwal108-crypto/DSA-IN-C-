@@ -33,7 +33,7 @@ This repository contains my C++ solutions while learning from **Striver's A2Z DS
 
 | Topic | Problems Solved |
 |--------|-----------------|
-| Arrays | 5 |
+| Arrays | 6 |
 | Strings | 0 |
 | Sorting | 0 |
 | Searching | 0 |
@@ -52,7 +52,7 @@ This repository contains my C++ solutions while learning from **Striver's A2Z DS
  - ✅ richest customer wealth *(LeetCode)*
  - ✅ shuffle the array *(LeetCode)*
  - ✅ two sum *(LeetCode)*
-
+ - ✅ best time to buy and sell stock  *(LeetCode)*
 ---
 
 ⭐ I will regularly update this repository as I progress through my DSA journey.
