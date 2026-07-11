@@ -1,0 +1,19 @@
+// Problem: Richest customer waelth
+// Platform: LeetCode
+// Difficulty: Easy
+class Solution {
+public:
+    int maximumWealth(vector<vector<int>>& accounts) {
+        int richest_balance=0;
+        for(int i=0;i<accounts.size();i++){
+            int balance=0;
+            for(int j=0;j<accounts[i].size();j++){
+           balance =balance+accounts[i][j];
+            }
+            if(balance>richest_balance){
+                richest_balance=balance;
+            }
+        }
+        return richest_balance;
+    }
+};
