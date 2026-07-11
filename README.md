@@ -33,7 +33,7 @@ This repository contains my C++ solutions while learning from **Striver's A2Z DS
 
 | Topic | Problems Solved |
 |--------|-----------------|
-| Arrays | 1 |
+| Arrays | 5 |
 | Strings | 0 |
 | Sorting | 0 |
 | Searching | 0 |
@@ -47,7 +47,11 @@ This repository contains my C++ solutions while learning from **Striver's A2Z DS
 ## 📝 Problems Solved
 
 ### Arrays
-- ✅ Move Zeroes *(LeetCode)*
+ - ✅ Move Zeroes *(LeetCode)*
+ - ✅ concatenation of array *(LeetCode)*
+ - ✅ richest customer wealth *(LeetCode)*
+ - ✅ shuffle the array *(LeetCode)*
+ - ✅ two sum *(LeetCode)*
 
 ---
 
